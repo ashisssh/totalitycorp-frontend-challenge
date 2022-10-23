@@ -48,7 +48,7 @@ p {
 /* Navigation Bar */
 
 .navbar {
-  padding: 0 0 0;
+  padding: 6px 0 12px;
   margin-top: 0px;
   background-color: #1d1d1f;
 }
